@@ -4,9 +4,9 @@ Repository Bookmate Project from Machine Learning Team.<br>
 
 <br>
 ML Team: <br>
-*(ML) M004D4KY2565– Ariq Maulana Tazakka – Sepuluh Nopember Institute of Technology - [Active]
-*(ML) M010D4KX2387– Nadira Maysa Dyandra – University of Indonesia - [Active]
-*(ML) M010D4KX1490– Amanda Nadhifah Zahra Andini – University of Indonesia - [Active]
+- M004D4KY2565– Ariq Maulana Tazakka – Sepuluh Nopember Institute of Technology - [Active]
+* M010D4KX2387– Nadira Maysa Dyandra – University of Indonesia - [Active]
++ M010D4KX1490– Amanda Nadhifah Zahra Andini – University of Indonesia - [Active]
 
 ### BookMate
 BookMate is a mobile application built natively for Android that provides book recommendations. Whether you're an avid reader looking for your next book or just curious about what's trending, BookMate helps you find the perfect read.
