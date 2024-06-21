@@ -19,3 +19,4 @@ Favorites: Save your favorite books for quick access later.
 User Reviews: Read and write reviews for books.
 Installation
 To get started with BookMate, follow these steps:
+
