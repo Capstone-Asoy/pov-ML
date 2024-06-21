@@ -20,3 +20,22 @@ User Reviews: Read and write reviews for books.
 Installation
 To get started with BookMate, follow these steps:
 
+### How to start ?
+
+clone and change directory to docker image
+```
+git clone https://github.com/Capstone-Asoy/pov-ML
+cd capstone_docker
+```
+
+if you want to run it locally first build the docker image
+```
+docker build -t {your account}/{your image name}:{your docker tag} .
+```
+
+the run it
+```
+docker run -d -p 80:8080 -v "$(pwd)/data:data" {your account}/{your image name}:{your docker tag}
+```
+
+andyou can access it in localhost:80
